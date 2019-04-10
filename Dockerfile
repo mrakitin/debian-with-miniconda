@@ -1,4 +1,4 @@
-FROM debian:7.9
+FROM debian:9
 
 MAINTAINER Maksim Rakitin <mrakitin@bnl.gov>
 
