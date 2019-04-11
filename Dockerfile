@@ -24,7 +24,7 @@ RUN apt-get update && \
       libsm6 libsm-dev \
       libsmbclient-dev \
       tk-dev \
-      libx11-6 libx11-dev \
+      libx11-6 libx11-dev libgtk2.0-0 \
       # gobject-introspection
       flex \
       # install extra packages for gobject-introspection package
